@@ -20,6 +20,7 @@ Once the user inputs answers to these questions, a second set of questions is so
 
 This video demonstrates how you can use the README generator app.
 
+![video](../Develop/videos/video.mp4)
 <video width="640" height="480" autoplay controls src="../Develop/videos/video.mp4" type="video/mp4">
 </video>
 
